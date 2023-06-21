@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgio</h1>
 <h3 align="center">A passionate Full Stack developer from Germany</h3>
 
-- 🔭 I’m currently working on **A Full Stack App for uploading and be able to vote for Pictures created by People**
+- 🔭 I’m currently working on **A Full Stack App for ppl who wants to rend a bicycle at ur current location (rent is from ppl for ppl)
 
 - 🌱 I’m currently learning **Full-Stack-Engineer(codecademy), Informatiker((java)ILS)**
 
