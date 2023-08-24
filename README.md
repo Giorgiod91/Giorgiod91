@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack-Engineer(codecademy), Informatiker((java)ILS)**
 
-- 📫 How to reach me **giorgio.dettmar@gmx.de**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
