@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Full Stack App for ppl who wants to rend a bicycle at ur current location (rent is from ppl for ppl) building frontent with react and backend with Java
 
-- 🌱 I’m currently learning **Full-Stack-Engineer(codecademy), Informatiker((java)ILS)**
+- 🌱 I’m currently learning **Informatiker((java)ILS)**
 
 
 
