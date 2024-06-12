@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giorgio</h1>
 <h3 align="center">A passionate Full Stack developer from Germany</h3>
 
-- 🔭 I’m currently working on **A Full Stack App for ppl who wants to change their body and built muscles
+- 🔭 I’m currently working on **A Full Stack Event App
+- my goal is to build multiple SaaS
 
 - 🌱 I’m currently learning **Informatiker((java)ILS)**
 
