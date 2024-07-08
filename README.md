@@ -5,6 +5,7 @@
 - my goal is to build multiple SaaS
 
 - 🌱 I’m currently learning **Informatiker((java)ILS)**
+- finished Full-Stack-Engineer (Codecademy)
 
 
 
