@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from Germany</h3>
 
 - 🔭 I’m currently working on a Software to track study progress and stay motivated while studying
+- Starting October 2024, I will pursue a part-time BSc (Honours) in Computing and IT (Software) at The Open University. This program will deepen my software development and engineering skills, supporting my goal of becoming a software developer.
 - my goal is to build multiple SaaS
 
 - 🌱 I’m currently learning **Informatiker((java)ILS)**
