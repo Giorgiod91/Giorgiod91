@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgio</h1>
 <h3 align="center">A passionate Full Stack developer from Germany</h3>
 
-- 🔭 I’m currently working on a Rotation Simulation for a class(holyPaladin) in World of Warcraft cause thats missing atm
+- 🔭 I’m currently Currently developing a Java-based DPS simulation tool to optimize damage output for Holy Paladins in dungeons for the Game World Of Warcraft
 - Starting October 2024, I will pursue a part-time BSc (Honours) in Computing and IT (Software) at The Open University. This program will deepen my software development and engineering skills, supporting my goal of becoming a software developer.
 - my goal is to build multiple SaaS
 
