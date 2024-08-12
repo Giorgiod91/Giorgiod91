@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Giorgio</h1>
 <h3 align="center">A passionate Full Stack developer from Germany</h3>
 
-- 🔭 I’m currently Currently developing a Java-based DPS simulation tool to optimize damage output for Holy Paladins in dungeons for the Game World Of Warcraft
-- Starting October 2024, I will pursue a part-time BSc (Honours) in Computing and IT (Software) at The Open University. This program will deepen my software development and engineering skills, supporting my goal of becoming a software developer.
-- my goal is to build multiple SaaS
+- 🔭 I’m currently developing a Java-based DPS simulation tool to optimize damage output for Holy Paladins in dungeons for the Game World Of Warcraft
 
-- 🌱 I’m currently learning **Informatiker((java)ILS)**
-- finished Full-Stack-Engineer (Codecademy)
+- My goal is to build multiple SaaS applications
 
-
+- 🌱 I’m currently learning **Informatiker (Java ILS)**
+- Finished Full-Stack Engineer (Codecademy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -50,4 +51,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">My Focus:</h3>
+<p align="left">
+  <strong>Backend:</strong> Python<br />
+  <strong>Frontend:</strong> Next.js
 </p>
