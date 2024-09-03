@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Giorgio</h1>
-<h3 align="center">A passionate Full Stack developer from Germany</h3>
 
-- 🔭 I’m currently developing a Java-based DPS simulation tool to optimize damage output for Holy Paladins in dungeons for the Game World Of Warcraft
+💻 **Currently focused on improving my skills in full-stack web development, with a strong emphasis on frontend technologies.**
 
-- My goal is to build multiple SaaS applications
+🔭 **Current Projects:** Developing an AI-powered React component designer and a Mario-like web-based game with Phaser.
 
-- 🌱 I’m currently learning **Informatiker (Java ILS)**
-- Finished Full-Stack Engineer (Codecademy)
+🌱 **Currently Learning:** Deepening my knowledge in full-stack development, including Next.js for frontend and Python for backend.
+
+🎯 **Goal:** To build and launch multiple SaaS applications while continuously enhancing my development skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/foquss2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foquss2" height="30" width="40" /></a>
+  <a href="https://twitter.com/foquss2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foquss2" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -55,6 +60,6 @@
 
 <h3 align="left">My Focus:</h3>
 <p align="left">
-  <strong>Backend:</strong> Python<br />
-  <strong>Frontend:</strong> Next.js
+  <strong>Frontend:</strong> Next.js, React, JavaScript<br />
+  <strong>Backend:</strong> Python (APIs), Cloud Platforms (GCP)
 </p>
