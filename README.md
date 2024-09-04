@@ -4,7 +4,7 @@
 
 🔭 **Current Projects:** Developing a Mario-like web-based game with Phaser.
 
-🌱 **Currently Learning:** Deepening my knowledge in full-stack development, including Next.js for frontend and Python for backend.
+🌱 **Currently Learning:** Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
 
 🎯 **Goal:** To build and launch multiple SaaS applications while continuously enhancing my development skills.
 
@@ -60,6 +60,6 @@
 
 <h3 align="left">My Focus:</h3>
 <p align="left">
-  <strong>Frontend:</strong> Next.js, React, JavaScript<br />
+  <strong>Frontend:</strong> Next.js, React,TypeScript, JavaScript<br />
   <strong>Backend:</strong> Python (APIs), Cloud Platforms (GCP)
 </p>
