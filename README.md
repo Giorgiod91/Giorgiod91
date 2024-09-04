@@ -2,7 +2,7 @@
 
 💻 **Currently focused on improving my skills in full-stack web development, with a strong emphasis on frontend technologies.**
 
-🔭 **Current Projects:** Developing an AI-powered React component designer and a Mario-like web-based game with Phaser.
+🔭 **Current Projects:** Developing a Mario-like web-based game with Phaser.
 
 🌱 **Currently Learning:** Deepening my knowledge in full-stack development, including Next.js for frontend and Python for backend.
 
