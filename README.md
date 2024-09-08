@@ -2,9 +2,12 @@
 
 💻 **Currently focused on improving my skills in full-stack web development, with a strong emphasis on frontend technologies.**
 
-🔭 **Current Projects:** Developing a Mario-like web-based game with Phaser.
+🔭 **Current Projects:**
+- Building a Paladin DPS rotation simulator in Java, focused on optimizing ability priority and Holy Power management for better DPS.
 
-🌱 **Currently Learning:** Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
+🌱 **Currently Learning:**
+- Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
+- Expanding my expertise in Java, applying it to game simulations and algorithms.
 
 🎯 **Goal:** To build and launch multiple SaaS applications while continuously enhancing my development skills.
 
@@ -60,6 +63,6 @@
 
 <h3 align="left">My Focus:</h3>
 <p align="left">
-  <strong>Frontend:</strong> Next.js, React,TypeScript, JavaScript<br />
-  <strong>Backend:</strong> Python (APIs), Cloud Platforms (GCP)
+  <strong>Frontend:</strong> Next.js, React, TypeScript, JavaScript<br />
+  <strong>Backend:</strong> Python (APIs), Cloud Platforms (GCP), Java (Game Simulations)
 </p>
