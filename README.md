@@ -3,7 +3,8 @@
 💻 **Currently focused on improving my skills in full-stack web development, with a strong emphasis on frontend technologies.**
 
 🔭 **Current Projects:**
-- Building a Paladin DPS rotation simulator in Java, focused on optimizing ability priority and Holy Power management for better DPS.
+-    Building a Paladin DPS rotation simulator in Java, focused on optimizing ability priority and Holy Power management for better DPS
+-    SafeWalk is a mobile app designed to provide safety for individuals when walking alone, especially at night
 
 🌱 **Currently Learning:**
 - Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
