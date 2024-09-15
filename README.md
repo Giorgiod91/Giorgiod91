@@ -4,7 +4,7 @@
 
 🔭 **Current Projects:**
 -    Building a Paladin DPS rotation simulator in Java, focused on optimizing ability priority and Holy Power management for better DPS
--    SafeWalk is a mobile app designed to provide safety for individuals when walking alone, especially at night
+-    FocusFlow is a mobile app designed to enhance productivity by helping users stay focused and organized with their daily tasks and goals.
 
 🌱 **Currently Learning:**
 - Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
