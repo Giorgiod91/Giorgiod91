@@ -7,6 +7,7 @@
 -    **Dog Happiness Tracker App**: An application designed to monitor and enhance your dog's happiness by tracking their activities. It calculates if the activity level is sufficient based on breed and age and provides feedback on how to adjust their activities for optimal well-being.
 
 🌱 **Currently Learning:**
+- **Machine Learning Specialization by Andrew Ng (Coursera)**: Learning about supervised and unsupervised learning, neural networks, and more, with a hands-on approach to machine learning using Python. [Check the course here.](https://www.coursera.org/specializations/machine-learning-introduction)
 - Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
 - Expanding my expertise in Java, applying it to game simulations and algorithms.
 
