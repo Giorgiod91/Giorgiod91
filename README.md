@@ -4,7 +4,7 @@
 
 🔭 **Current Projects:**
 -    Building a Paladin DPS rotation simulator in Java, focused on optimizing ability priority and Holy Power management for better DPS
--    **Dog Happiness Tracker App**: An application designed to monitor and enhance your dog's happiness by tracking their activities. It calculates if the activity level is sufficient based on breed and age and provides feedback on how to adjust their activities for optimal well-being.
+-    **Go2Spot**: Discover must-visit spots, party places, and hidden gems in any city you travel to with maps and pictures.
 
 🌱 **Currently Learning:**
 - **Machine Learning Specialization by Andrew Ng (Coursera)**: Learning about supervised and unsupervised learning, neural networks, and more, with a hands-on approach to machine learning using Python. [Check the course here.](https://www.coursera.org/specializations/machine-learning-introduction)
