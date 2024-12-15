@@ -11,6 +11,9 @@
 - Deepening my knowledge in full-stack development with TypeScript, including Next.js for frontend and Python for backend.
 - Expanding my expertise in Java, applying it to game simulations and algorithms.
 
+🎓 **Upcoming Educational Goals:**
+- Starting a **Bachelor’s degree in Computer Science at the Open University (Spring 2025)** while working full-time. This flexible program will allow me to deepen my theoretical understanding of software development alongside my professional growth.
+
 🎯 **Goal:** To build and launch multiple SaaS applications while continuously enhancing my development skills.
 
 <h3 align="left">Connect with me:</h3>
