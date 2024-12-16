@@ -12,7 +12,7 @@
 - Expanding my expertise in Java, applying it to game simulations and algorithms.
 
 🎓 **Upcoming Educational Goals:**
-- Starting a **Bachelor’s degree in Computer Science at the Open University (Spring 2025)** while working full-time. This flexible program will allow me to deepen my theoretical understanding of software development alongside my professional growth.
+- Starting a **Bachelor’s degree in Computer Science with Artificial Intelligence at the Open University (Spring 2025)** while working full-time. This flexible program will allow me to deepen my theoretical understanding of software development alongside my professional growth.
 
 🎯 **Goal:** To build and launch multiple SaaS applications while continuously enhancing my development skills.
 
