@@ -1,51 +1,68 @@
-<h1 align="center">Hi 👋, I'm Giorgio</h1>
+<h1 align="center">👋 Hi, I'm Giorgio</h1>
 
 <p align="center">
-💻 <strong>Aspiring Software Developer | Frontend & Full-Stack Development</strong><br>
-🎓 <strong>Currently studying Computer Science (B.Sc.) at UoPeople</strong><br>
-💼 <strong>Currently undergoing Umschulung to Fachinformatiker Anwendungsentwicklung</strong><br>
-🚀 <strong>Passionate about building practical apps, exploring AI/ML, and learning across all areas of Computer Science</strong>
+  <strong>Junior Full-Stack Developer | Next.js · React · TypeScript · AI/ML</strong><br>
+  🎓 Fachinformatiker Anwendungsentwicklung (IHK) – In Training until 2027<br>
+  📚 B.Sc. Computer Science @ University of the People (USA) – 2025-2028
+</p>
+
+<p align="center">
+
+
 </p>
 
 <hr>
 
-<h3>🔭 Current Projects:</h3>
-<ul>
-  <li><strong>CrackTheTest.ai (Next.js, Python, ML)</strong> – Automatically generates tests, analyzes results, and predicts difficulty levels with a small ML model.</li>
- 
-</ul>
+<h2>🚀 Featured Projects</h2>
 
-<h3>🌱 Currently Learning:</h3>
-<ul>
-  <li><strong>Full-stack development:</strong> TypeScript, Next.js, React, Python (APIs)</li>
-  <li><strong>AI/ML & Data Science:</strong> exploring text classification, embeddings, and predictive models through small projects and online courses (Andrew Ng, IBM)</li>
-  <li><strong>Problem solving & algorithms:</strong> practicing coding challenges (LeetCode) and simulations</li>
-  <li>Expanding my curiosity across all areas of computer science</li>
-</ul>
+### [CrackTheTest.ai](https://crack-the-test.vercel.app/) 🔗
+**AI-powered test generator** Full-Stack App 
 
-<h3>🛠️ Tech Stack & Tools:</h3>
+**Stack:** Next.js  · TypeScript · Supabase · OpenAI API · Python  
+**Features:** Authentication · CRUD Operations · AI Integration · Dashboard · Stripe (in dev)
+
+### [PicturaSearch](https://picturasearch.vercel.app/) 🔗
+**AI image search engine** with custom classification models.
+- in progress
+
+**Stack:** Next.js · TensorFlow.js · Supabase · Python  
+**Features:** Image Storage · AI Classification · Search
+
+<hr>
+
+<h2>💼 Tech Stack</h2>
+
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Framer Motion" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
 
-<h3>🔥 My Focus:</h3>
-<ul>
-  <li><strong>Frontend:</strong> Next.js, React, TypeScript, JavaScript, TailwindCSS, UI/UX, Framer Motion</li>
-  <li><strong>Backend:</strong> Python (APIs), small ML models, MongoDB, Supabase</li>
-  <li><strong>AI/ML:</strong> text classification, embeddings, predictive models, exploring TensorFlow & PyTorch</li>
-</ul>
+<hr>
 
-<h3>📫 Connect with me:</h3>
-<p>
-  <a href="https://twitter.com/foquss2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://github.com/Giorgiod91" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
+<h2>🌱 Currently Learning</h2>
+
+- 🧠 **Deep Learning Specialization** (Andrew Ng) – [My Notes](https://github.com/Giorgiod91/DeepLearning-Andrew-Ng-Course-What-I-Learn)
+- 💳 **Stripe Integration** – Payment flows & webhooks for SaaS
+- 🔷 **Advanced TypeScript** – Generics, Utility Types, Type Guards
+- ⚡ **Next.js 15 Patterns** – Server Components, Server Actions, Caching
+- 🔒 **Supabase Security** – Row Level Security (RLS), Auth Policies
+<hr>
+
+<h2>📫 Connect</h2>
+
+<p align="center">
+
+  <a href="mailto:giorgio.dettmar@gmx.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>💼 Open for Junior Developer positions & internships (Praktikum)</i>
 </p>
