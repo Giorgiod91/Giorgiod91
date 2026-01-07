@@ -10,11 +10,12 @@
 
 <h2>🚀 Featured Projects</h2>
 
-### [CrackTheTest.ai](https://crack-the-test.vercel.app/) 🔗
-**AI-powered test generator** – Full-Stack Web App
+### [Py2PHP](https://github.com/Giorgiod91/Py2PHP) 🔗
+**Python library that generates PHP code** 
 
-**Tech:** Next.js · TypeScript · Supabase · OpenAI API · Python  
-**Highlights:** Authentication, CRUD Operations, AI Integration, Dashboard, Stripe (in dev)
+**Tech:** Python · OOP · Code Generation
+**Highlights:** Python-style syntax for PHP, dynamic code generation, learning-focused
+
 
 ### [PicturaSearch](https://picturasearch.vercel.app/) 🔗
 **AI image search engine** – in progress
