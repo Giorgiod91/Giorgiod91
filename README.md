@@ -8,22 +8,7 @@
 
 <hr>
 
-<h2>🚀 Featured Projects</h2>
 
-### [Py2PHP](https://github.com/Giorgiod91/Py2PHP) 🔗
-**Python library that generates PHP code** 
-
-**Tech:** Python · OOP · Code Generation
-**Highlights:** Python-style syntax for PHP, dynamic code generation, learning-focused
-
-
-### [PicturaSearch](https://picturasearch.vercel.app/) 🔗
-**AI image search engine** – in progress
-
-**Tech:** Next.js · TensorFlow.js · Supabase · Python  
-**Highlights:** Image Storage, AI Classification, Search
-
-<hr>
 
 <h2>💻 What I Do</h2>
 
