@@ -8,12 +8,16 @@
 
 <hr>
 
+<h2>💻 Projects</h2>
 
+### PraktikumFinder
+Finde passende Betriebe für Fachinformatiker-Praktika. 
+**Live:** [praktikumsfinder.vercel.app](https://praktikumsfinder.vercel.app/)  
+**Tech:** Python, HTML/CSS/JS, Railway
 
-<h2>💻 What I Do</h2>
-
-I build personal projects to learn by doing – from **web apps and mini-games to AI/ML experiments**.  
-I love exploring new technologies, integrating AI into apps, and continuously improving my skills.  
+### OptiLife – Life Planner & Simulator
+Simuliert Wochenpläne für Uni, Ausbildung oder Projekte. Zeigt, wie Aufgaben, Energie und Motivation zusammenhängen.  
+**Tech:** Python, OOP, Streamlit, Matplotlib  
 
 <hr>
 
