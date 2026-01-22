@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Giorgio</h1>
 
 <p align="center">
-  <strong>Aspiring Software Developer | Passionate About Machine Learning & Projects</strong><br>
+  <strong>Aspiring Software Developer | Neovim Enjoyer | Passionate About Machine Learning & Projects</strong><br>
   🎓 Fachinformatiker Anwendungsentwicklung (IHK) – In Training until 2027<br>
   📚 B.Sc. Computer Science @ University of the People (USA) – 2025-2028
 </p>
