@@ -35,5 +35,5 @@ Full-Stack Travel Companion für personalisierte Empfehlungen
 
 ## 📫 Links
 
-- Portfolio: [giorgiodettmar.com](https://giorgiodettmar.com)  
+- Portfolio: [giorgiodettmar.com](https://www.giorgiodettmar.com/)  
 - GitHub: [github.com/Giorgiod91](https://github.com/Giorgiod91)
