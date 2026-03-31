@@ -18,7 +18,13 @@ KI-gestützter Test-Generator (Full-Stack SaaS)
 KI-Tool zur schnellen Erstellung von React-Komponenten aus Text  
 - Nutzt OpenAI API für dynamische Komponentenerstellung  
 - Live-Vorschau & kopierbarer React-Code  
-- **Tech Stack:** Next.js Frontend, Flask Backend  
+- **Tech Stack:** Next.js Frontend, Flask Backend
+
+### Go2Spot (in Entwicklung)
+Full-Stack Travel Companion für personalisierte Empfehlungen  
+- React/Next.js Frontend, Tailwind CSS, Framer-Motion ,Google Maps API
+  
+- **GitHub:** https://github.com/Giorgiod91/-Go2Spot.git
 
 ## 🌱 Currently Learning
 
