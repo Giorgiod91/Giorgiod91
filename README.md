@@ -1,14 +1,36 @@
-# Hi, I’m Giorgio
+# Hi, I'm Giorgio 👋
+## Full-Stack Developer · Next.js · React · TypeScript | AI-Workflows
 
-## Software Developer with focus on Full-Stack Web and growing Java experience
-
-🎓 Fachinformatiker Anwendungsentwicklung (IHK), in Training until 2027  
+🎓 Fachinformatiker Anwendungsentwicklung (IHK) in Ausbildung bis 2027  
 📚 B.Sc. Computer Science, University of the People (2025–2028)
 
-I build full-stack web applications with a strong focus on Next.js, React, and TypeScript.  
-At the same time, I’m expanding into Java through hands-on projects because I enjoy structured, object-oriented development and want to grow toward broader software engineering roles.
+I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI API integration and Python backends.
+
+I work actively with agentic AI coding workflows (Claude, Cursor, v0) to build faster and smarter.
+
+---
+
+## 🚀 Featured Projects
+
+- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime platform for gamers to connect and play together (Next.js + Live Features, in active development)
+- **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered test generator (Next.js + FastAPI + OpenAI)
+- **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Platform connecting career changers with IHK-certified companies (Next.js + FastAPI)
+- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python/GCP)
+- **[Paladin Combat Simulator](https://github.com/Giorgiod91/HolyPaladinRotationSim)** – Java Backend + Next.js Frontend
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** Next.js · React · TypeScript · JavaScript  
+**Backend:** Python · FastAPI · Java  
+**Database:** Supabase · MongoDB  
+**Currently learning:** Spring Boot · Objektorientierte Softwareentwicklung
+
+---
 
 ## 📫 Links
 
-- Portfolio: [giorgiodettmar.com](https://www.giorgiodettmar.com/)  
+- Portfolio: [giorgiodettmar.com](https://www.giorgiodettmar.com/)
+- LinkedIn: [linkedin.com/in/DEINPROFIL](https://linkedin.com)
 - GitHub: [github.com/Giorgiod91](https://github.com/Giorgiod91)
