@@ -6,7 +6,7 @@
 
 I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI API integration and Python backends.
 
-I work actively with agentic AI coding workflows (Claude, Cursor, v0) to build faster and smarter.
+I work actively with agentic AI coding workflows (Claude) to build faster and smarter.
 
 ---
 
