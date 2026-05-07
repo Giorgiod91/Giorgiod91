@@ -32,5 +32,5 @@ I work actively with agentic AI coding workflows (Claude, Cursor, v0) to build f
 ## 📫 Links
 
 - Portfolio: [giorgiodettmar.com](https://www.giorgiodettmar.com/)
-- LinkedIn: [linkedin.com/in/DEINPROFIL](https://linkedin.com/giorgio-dettmar-4838b725)
+- LinkedIn: [www.linkedin.com/in/giorgio-dettmar-4838b7250)
 - GitHub: [github.com/Giorgiod91](https://github.com/Giorgiod91)
