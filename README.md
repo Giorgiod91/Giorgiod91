@@ -4,7 +4,7 @@
 🎓 Fachinformatiker Anwendungsentwicklung (IHK) in Ausbildung bis 2027  
 📚 B.Sc. Computer Science, University of the People (2025–2028)
 
-I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI API integration and Python backends.
+I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI API integration and Python backends on GCP, Vercel, and Railway.
 
 I work actively with agentic AI coding workflows (Claude) to build faster and smarter.
 
@@ -25,6 +25,7 @@ I work actively with agentic AI coding workflows (Claude) to build faster and sm
 **Frontend:** Next.js · React · TypeScript · JavaScript  
 **Backend:** Python · FastAPI · Java  
 **Database:** Supabase · MongoDB  
+**Deployment:** Vercel · Railway · GCP  
 **Currently learning:** Spring Boot · Objektorientierte Softwareentwicklung
 
 ---
