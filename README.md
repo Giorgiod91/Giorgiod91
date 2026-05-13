@@ -1,5 +1,5 @@
 # Hi, I'm Giorgio 👋
-## Full-Stack Developer · Next.js · React · TypeScript | AI-Workflows
+## Junior Full-Stack Developer · Next.js · React · TypeScript | AI-Workflows
 
 🎓 Fachinformatiker Anwendungsentwicklung (IHK) in Ausbildung bis 2027  
 📚 B.Sc. Computer Science, University of the People (2025–2028)
@@ -16,7 +16,7 @@ I work actively with agentic AI coding workflows (Claude) to build faster and sm
 - **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered test generator (Next.js + FastAPI + OpenAI)
 - **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Platform connecting career changers with IHK-certified companies (Next.js + FastAPI)
 - **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python/GCP)
-- **[Go2Spot](https://github.com/Giorgiod91/Go2Spot)** – Travel discovery app with ML personalization (Next.js + Python)
+- **[Go2Spot](https://github.com/Giorgiod91/-Go2Spot)** – Travel discovery app with ML personalization (Next.js + Python)
 
 ---
 
