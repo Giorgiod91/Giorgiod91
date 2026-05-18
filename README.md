@@ -2,29 +2,31 @@
 ## Junior Full-Stack Developer · Next.js · React · TypeScript | AI-Workflows
 
 🎓 Fachinformatiker Anwendungsentwicklung (IHK) in Ausbildung bis 2027  
-📚 B.Sc. Computer Science, University of the People (2025–2028)
+📚 B.Sc. Computer Science — Fernstudium, University of the People (2025–2028)  
+📍 Deutschland
 
-I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI API integration and Python backends on GCP, Vercel, and Railway.
+I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI and Claude API integration and Python backends on Vercel and Railway.
 
-I work actively with agentic AI coding workflows (Claude) to build faster and smarter.
+I work actively with agentic AI coding workflows (Claude Code) to build faster and smarter.
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime platform for gamers to connect and play together (Next.js + Live Features, in active development)
+- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)** – AI-gestützter Lernbegleiter: Chat mit eigenen PDFs via RAG + Claude AI, Word Export, Deadline Tracking (Next.js + FastAPI + ChromaDB)
+- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime platform for gamers to connect and play together (Next.js + Live Features)
 - **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered test generator (Next.js + FastAPI + OpenAI)
 - **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Platform connecting career changers with IHK-certified companies (Next.js + FastAPI)
-- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python/GCP)
-- **[Go2Spot](https://github.com/Giorgiod91/-Go2Spot)** – Travel discovery app with ML personalization (Next.js + Python)
+- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js · React · TypeScript · JavaScript  
-**Backend:** Python · FastAPI · Java  
-**Database:** Supabase · MongoDB  
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion  
+**Backend:** Python · FastAPI · Node.js  
+**AI/ML:** Claude API · OpenAI API · LangChain · ChromaDB · sentence-transformers  
+**Database:** Supabase · MongoDB · ChromaDB  
 **Deployment:** Vercel · Railway · GCP  
 **Currently learning:** Spring Boot · Objektorientierte Softwareentwicklung
 
@@ -33,5 +35,5 @@ I work actively with agentic AI coding workflows (Claude) to build faster and sm
 ## 📫 Links
 
 - Portfolio: [giorgiodettmar.com](https://www.giorgiodettmar.com/)
-- LinkedIn: [www.linkedin.com/in/giorgio-dettmar-4838b7250)
+- LinkedIn: [linkedin.com/in/giorgio-dettmar-4838b7250](https://www.linkedin.com/in/giorgio-dettmar-4838b7250)
 - GitHub: [github.com/Giorgiod91](https://github.com/Giorgiod91)
