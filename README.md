@@ -5,7 +5,7 @@
 📚 B.Sc. Computer Science — Fernstudium, University of the People (2025–2028)  
 📍 Deutschland
 
-I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack, and Python as a growing focus for backend, AI, and algorithms. Several of my projects are live in production, including AI-powered apps with OpenAI and Claude API integration and Python backends on Vercel and Railway.
+I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI and Claude API integration and Python backends on GCP, Vercel and Railway — Python is currently my deepening focus.
 
 I work actively with agentic AI coding workflows (Claude Code) to build faster and smarter.
 
@@ -13,24 +13,27 @@ I work actively with agentic AI coding workflows (Claude Code) to build faster a
 
 ## 🚀 Featured Projects
 
-- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)** – AI-gestützter Lernbegleiter: Chat mit eigenen PDFs via RAG + Claude AI, Word Export, Deadline Tracking (Next.js + FastAPI + ChromaDB)
+- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)** – AI-powered learning companion: chat with your own PDFs via RAG + Claude AI, Word export, deadline tracking (Next.js + FastAPI + ChromaDB)
 - **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime platform for gamers to connect and play together (Next.js + Live Features)
 - **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered test generator (Next.js + FastAPI + OpenAI)
 - **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Platform connecting career changers with IHK-certified companies (Next.js + FastAPI)
-- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python)
+- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python/GCP)
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion  
-**Backend:** Python · FastAPI · Node.js  
+**Backend:** FastAPI · Node.js  
 **AI/ML:** Claude API · OpenAI API · LangChain · ChromaDB · sentence-transformers  
 **Database:** Supabase · MongoDB · ChromaDB  
 **Deployment:** Vercel · Railway · GCP  
 
-**🐍 Python Focus (aktiv vertieft):** Algorithmen · Datenstrukturen · OOP · FastAPI · ML-Grundlagen  
-**Currently learning:** Spring Boot · Objektorientierte Softwareentwicklung
+**🐍 Python:**  
+FastAPI · AI/ML Integration · OpenAI/Claude API  
+→ Currently deepening: Algorithms & Data Structures  
+
+**Currently learning:** Java · Spring Boot · Object-Oriented Software Engineering
 
 ---
 
