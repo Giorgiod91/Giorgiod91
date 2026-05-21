@@ -1,11 +1,11 @@
 # Hi, I'm Giorgio 👋
-## Junior Full-Stack Developer · Next.js · React · TypeScript | AI-Workflows
+## Junior Full-Stack Developer · Next.js · React · TypeScript · Python | AI-Workflows
 
 🎓 Fachinformatiker Anwendungsentwicklung (IHK) in Ausbildung bis 2027  
 📚 B.Sc. Computer Science — Fernstudium, University of the People (2025–2028)  
 📍 Deutschland
 
-I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI and Claude API integration and Python backends on Vercel and Railway.
+I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack, and Python as a growing focus for backend, AI, and algorithms. Several of my projects are live in production, including AI-powered apps with OpenAI and Claude API integration and Python backends on Vercel and Railway.
 
 I work actively with agentic AI coding workflows (Claude Code) to build faster and smarter.
 
@@ -28,6 +28,8 @@ I work actively with agentic AI coding workflows (Claude Code) to build faster a
 **AI/ML:** Claude API · OpenAI API · LangChain · ChromaDB · sentence-transformers  
 **Database:** Supabase · MongoDB · ChromaDB  
 **Deployment:** Vercel · Railway · GCP  
+
+**🐍 Python Focus (aktiv vertieft):** Algorithmen · Datenstrukturen · OOP · FastAPI · ML-Grundlagen  
 **Currently learning:** Spring Boot · Objektorientierte Softwareentwicklung
 
 ---
