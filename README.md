@@ -1,23 +1,24 @@
 # Hi, I'm Giorgio 👋
-## Junior Full-Stack Developer · Next.js · React · TypeScript · Python | AI-Workflows
+## Full-Stack Developer · Next.js · TypeScript · Python | AI-powered SaaS
 
-🎓 Fachinformatiker Anwendungsentwicklung (IHK) in Ausbildung bis 2027  
-📚 B.Sc. Computer Science — Fernstudium, University of the People (2025–2028)  
-📍 Deutschland
+🎓 Fachinformatiker Anwendungsentwicklung (IHK) · Profil GmbH, Hannover – bis 2027  
+📚 B.Sc. Computer Science – University of the People (2025–2028)  
+📍 Hannover, Deutschland · Offen für Freelance-Projekte (remote)
 
-I build full-stack web applications from idea to deployment — with Next.js, React, and TypeScript as my core stack. Several of my projects are live in production, including AI-powered apps with OpenAI and Claude API integration and Python backends on GCP, Vercel and Railway — Python is currently my deepening focus.
+I build full-stack web applications from idea to production — with Next.js, TypeScript, and Python/FastAPI as my core stack. My flagship project **CrackTheTest.ai** is a live SaaS with real users, Stripe subscriptions, and the Anthropic Claude API powering the AI backend.
 
-I work actively with agentic AI coding workflows (Claude Code) to build faster and smarter.
+I work with agentic AI coding workflows and use **Neovim** as my primary editor.
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)** – AI-powered learning companion: chat with your own PDFs via RAG + Claude AI, Word export, deadline tracking (Next.js + FastAPI + ChromaDB)
-- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime platform for gamers to connect and play together (Next.js + Live Features)
-- **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered test generator (Next.js + FastAPI + OpenAI)
-- **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Platform connecting career changers with IHK-certified companies (Next.js + FastAPI)
-- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT (Next.js + Python/GCP)
+- **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered exam prep SaaS · Claude API · Stripe Subscriptions (live) · Supabase Auth + PostgreSQL + RLS · Premium Dashboard (Next.js + FastAPI)
+- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)** – Chat with your PDFs via full RAG pipeline · Claude API · LangChain · ChromaDB (Next.js + FastAPI)
+- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime gaming community platform (Next.js + Supabase Realtime)
+- **[PicturaSearch](https://github.com/Giorgiod91/PicturaSearch)** – Visual search engine with CNN image recognition + eBay API (TypeScript + Python + TensorFlow)
+- **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Career platform connecting career changers with IHK companies (Next.js + FastAPI)
+- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT-4 (Next.js + Python)
 
 ---
 
@@ -25,15 +26,19 @@ I work actively with agentic AI coding workflows (Claude Code) to build faster a
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion  
 **Backend:** FastAPI · Node.js  
-**AI/ML:** Claude API · OpenAI API · LangChain · ChromaDB · sentence-transformers  
-**Database:** Supabase · MongoDB · ChromaDB  
+**AI/ML:** Claude API (Anthropic) · OpenAI API · LangChain · ChromaDB · TensorFlow  
+**Database:** Supabase (PostgreSQL + Auth + RLS) · MongoDB  
+**Payments:** Stripe (Subscriptions + Webhooks)  
 **Deployment:** Vercel · Railway · GCP  
+**Editor:** Neovim · Claude Code  
 
-**🐍 Python:**  
-FastAPI · AI/ML Integration · OpenAI/Claude API  
-→ Currently deepening: Algorithms & Data Structures  
+---
 
-**Currently learning:** Java · Spring Boot · Object-Oriented Software Engineering
+## 📚 Aktuell
+
+→ Python vertiefen – Fortgeschrittene Konzepte, Design Patterns, Testing  
+→ Agentic AI – Multi-step Agents mit Claude tool_use  
+→ Algorithmen & Datenstrukturen  
 
 ---
 
