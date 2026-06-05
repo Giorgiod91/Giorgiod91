@@ -1,9 +1,9 @@
 # Hi, I'm Giorgio 👋
 ## Full-Stack Developer · Next.js · TypeScript · Python | SaaS & AI Apps
 
-🎓 Umschulung Fachinformatiker Anwendungsentwicklung (IHK) · Profil GmbH, Hannover (2025–2027)
+🎓 Vocational Retraining — Software Developer / Fachinformatiker Anwendungsentwicklung (IHK) · Profil GmbH, Hannover (2025–2027)
 📚 B.Sc. Computer Science – University of the People (2025–2028)
-📍 Hannover, Deutschland · Offen für berufliche Möglichkeiten in der Softwareentwicklung
+📍 Hannover, Germany · Open to opportunities in software development
 
 I build full-stack web applications from idea to production — with Next.js, TypeScript, and Python/FastAPI as my core stack. My flagship project **CrackTheTest.ai** is a live SaaS with Stripe subscriptions and the Anthropic Claude API powering the AI backend.
 
@@ -31,12 +31,12 @@ I build full-stack web applications from idea to production — with Next.js, Ty
 
 ---
 
-## 📚 Aktuell
+## 📚 Currently Learning
 
 → ML Specialization – deeplearning.ai (Andrew Ng) ✓
-→ Python vertiefen – Fortgeschrittene Konzepte, Design Patterns, Testing
-→ Agentic AI – Multi-step Agents mit Claude tool_use
-→ Algorithmen & Datenstrukturen
+→ Advanced Python – Design Patterns, Testing, Clean Architecture
+→ Agentic AI – Multi-step Agents with Claude tool_use
+→ Algorithms & Data Structures
 
 ---
 
