@@ -1,13 +1,11 @@
 # Hi, I'm Giorgio 👋
 ## Full-Stack Developer · Next.js · TypeScript · Python | SaaS & AI Apps
 
-🎓 Fachinformatiker Anwendungsentwicklung (IHK) · Profil GmbH, Hannover – bis 2027  
-📚 B.Sc. Computer Science – University of the People (2025–2028)  
-📍 Hannover, Deutschland · Offen für Freelance-Projekte (remote)
+🎓 Umschulung Fachinformatiker Anwendungsentwicklung (IHK) · Profil GmbH, Hannover (2025–2027)
+📚 B.Sc. Computer Science – University of the People (2025–2028)
+📍 Hannover, Deutschland · Offen für berufliche Möglichkeiten in der Softwareentwicklung
 
 I build full-stack web applications from idea to production — with Next.js, TypeScript, and Python/FastAPI as my core stack. My flagship project **CrackTheTest.ai** is a live SaaS with Stripe subscriptions and the Anthropic Claude API powering the AI backend.
-
-I work with agentic AI coding workflows and use **Neovim** as my primary editor.
 
 ---
 
@@ -24,22 +22,21 @@ I work with agentic AI coding workflows and use **Neovim** as my primary editor.
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion  
-**Backend:** FastAPI · Node.js  
-**AI/ML:** Claude API (Anthropic) · OpenAI API · LangChain · ChromaDB · TensorFlow  
-**Database:** Supabase (PostgreSQL + Auth + RLS) · MongoDB  
-**Payments:** Stripe (Subscriptions + Webhooks)  
-**Deployment:** Vercel · Railway · GCP  
-**Editor:** Neovim · Claude Code  
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
+**Backend:** FastAPI · Node.js
+**AI/ML:** Claude API (Anthropic) · OpenAI API · LangChain · ChromaDB · TensorFlow
+**Database:** Supabase (PostgreSQL + Auth + RLS) · MongoDB
+**Payments:** Stripe (Subscriptions + Webhooks)
+**Deployment:** Vercel · Railway · GCP
 
 ---
 
 ## 📚 Aktuell
 
-→ ML Specialization – deeplearning.ai (Andrew Ng) ✓  
-→ Python vertiefen – Fortgeschrittene Konzepte, Design Patterns, Testing  
-→ Agentic AI – Multi-step Agents mit Claude tool_use  
-→ Algorithmen & Datenstrukturen  
+→ ML Specialization – deeplearning.ai (Andrew Ng) ✓
+→ Python vertiefen – Fortgeschrittene Konzepte, Design Patterns, Testing
+→ Agentic AI – Multi-step Agents mit Claude tool_use
+→ Algorithmen & Datenstrukturen
 
 ---
 
