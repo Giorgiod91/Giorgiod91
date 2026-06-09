@@ -1,47 +1,51 @@
 # Hi, I'm Giorgio 👋
-## Full-Stack Developer · Next.js · TypeScript · Python | SaaS & AI Apps
 
-🎓 Vocational Retraining — Software Developer / Fachinformatiker Anwendungsentwicklung (IHK) · Profil GmbH, Hannover (2025–2027)
-📚 B.Sc. Computer Science – University of the People (2025–2028)
-📍 Hannover, Germany · Open to opportunities in software development
+## Full-Stack / Backend Engineer · SaaS & AI Systems
 
-I build full-stack web applications from idea to production — with Next.js, TypeScript, and Python/FastAPI as my core stack. My flagship project **CrackTheTest.ai** is a live SaaS with Stripe subscriptions and the Anthropic Claude API powering the AI backend.
+🎓 Vocational Training — Software Developer (Fachinformatiker Anwendungsentwicklung, IHK) · Profil GmbH Hannover (2025–2027)  
+📚 B.Sc. Computer Science – University of the People (2025–2028)  
+📍 Hannover, Germany · Open to software engineering opportunities
+
+---
+
+I build production-ready SaaS and backend systems with a focus on scalability, clean architecture, and AI integration.
+
+My work combines full-stack product development with backend engineering — including authentication systems, multi-tenant architectures, payments (Stripe), and AI-powered features.
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[CrackTheTest.ai](https://crack-the-test.vercel.app/)** – AI-powered exam prep SaaS · Claude API · Stripe Subscriptions (live) · Supabase Auth + PostgreSQL + RLS · Premium Dashboard (Next.js + FastAPI)
-- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)** – Chat with your PDFs via full RAG pipeline · Claude API · LangChain · ChromaDB (Next.js + FastAPI)
-- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)** – Realtime gaming community platform (Next.js + Supabase Realtime)
-- **[PicturaSearch](https://github.com/Giorgiod91/PicturaSearch)** – Visual search engine with CNN image recognition + eBay API (TypeScript + Python + TensorFlow)
-- **[PraktikumsFinder](https://praktikumsfinder.vercel.app/)** – Career platform connecting career changers with IHK companies (Next.js + FastAPI)
-- **[Reactify.AI](https://aicomponentgenerator-nine.vercel.app/)** – React component generator via GPT-4 (Next.js + Python)
+- **[CrackTheTest.ai](https://crack-the-test.vercel.app/)**  
+  AI-powered SaaS for exam preparation  
+  → Claude API · Stripe Subscriptions · Supabase Auth + PostgreSQL · Multi-tenant architecture · Next.js + FastAPI
+
+- **[Study Assistant](https://github.com/Giorgiod91/study-assistant)**  
+  RAG-based AI system for chatting with documents  
+  → Claude API · Vector Database (ChromaDB) · FastAPI backend · Next.js frontend
+
+- **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)**  
+  Realtime community platform  
+  → Supabase Realtime · Next.js · Social features
+
+- **[PicturaSearch](https://github.com/Giorgiod91/PicturaSearch)**  
+  Image search system using computer vision  
+  → Python · CNN-based similarity search · eBay API integration
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
-**Backend:** FastAPI · Node.js
-**AI/ML:** Claude API (Anthropic) · OpenAI API · LangChain · ChromaDB · TensorFlow
-**Database:** Supabase (PostgreSQL + Auth + RLS) · MongoDB
-**Payments:** Stripe (Subscriptions + Webhooks)
-**Deployment:** Vercel · Railway · GCP
-
----
-
-## 📚 Currently Learning
-
-→ ML Specialization – deeplearning.ai (Andrew Ng) ✓
-→ Advanced Python – Design Patterns, Testing, Clean Architecture
-→ Agentic AI – Multi-step Agents with Claude tool_use
-→ Algorithms & Data Structures
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend:** Python · FastAPI · Node.js  
+**Databases:** PostgreSQL · Supabase  
+**Infra & Payments:** Stripe · Redis · Vercel  
+**AI:** Claude API (Anthropic) · OpenAI API  
 
 ---
 
 ## 📫 Links
 
-- Portfolio: [giorgiodettmar.com](https://www.giorgiodettmar.com/)
-- LinkedIn: [linkedin.com/in/giorgio-dettmar-4838b7250](https://www.linkedin.com/in/giorgio-dettmar-4838b7250)
-- GitHub: [github.com/Giorgiod91](https://github.com/Giorgiod91)
+- Portfolio: https://www.giorgiodettmar.com  
+- LinkedIn: https://www.linkedin.com/in/giorgio-dettmar-4838b7250  
+- GitHub: https://github.com/Giorgiod91
