@@ -1,16 +1,16 @@
 # Hi, I'm Giorgio 👋
 
-## Full-Stack / Backend Engineer · SaaS & AI Systems
+## Software Developer · Next.js · Python · AI Applications
 
 🎓 Vocational Training — Software Developer (Fachinformatiker Anwendungsentwicklung, IHK) · Profil GmbH Hannover (2025–2027)  
 📚 B.Sc. Computer Science – University of the People (2025–2028)  
-📍 Hannover, Germany · Open to software engineering opportunities
+📍 Germany · Open to software engineering opportunities
 
 ---
 
-I build production-ready SaaS and backend systems with a focus on scalability, clean architecture, and AI integration.
+I build web applications and SaaS projects with a focus on full-stack development, backend systems, and AI integration.
 
-My work combines full-stack product development with backend engineering — including authentication systems, multi-tenant architectures, payments (Stripe), and AI-powered features.
+Most of my work is focused on building real applications from idea to deployment — including authentication, databases, payments, and AI-powered features.
 
 ---
 
@@ -18,29 +18,29 @@ My work combines full-stack product development with backend engineering — inc
 
 - **[CrackTheTest.ai](https://crack-the-test.vercel.app/)**  
   AI-powered SaaS for exam preparation  
-  → Claude API · Stripe Subscriptions · Supabase Auth + PostgreSQL · Multi-tenant architecture · Next.js + FastAPI
+  → Claude API · Stripe · Supabase (Auth + PostgreSQL) · Multi-tenant setup · Next.js · FastAPI
 
 - **[Study Assistant](https://github.com/Giorgiod91/study-assistant)**  
-  RAG-based AI system for chatting with documents  
-  → Claude API · Vector Database (ChromaDB) · FastAPI backend · Next.js frontend
+  AI system for chatting with documents (RAG)  
+  → Claude API · ChromaDB · FastAPI · Next.js
 
 - **[GamerConnect](https://github.com/Giorgiod91/GamerConnect)**  
   Realtime community platform  
-  → Supabase Realtime · Next.js · Social features
+  → Supabase Realtime · Next.js
 
 - **[PicturaSearch](https://github.com/Giorgiod91/PicturaSearch)**  
-  Image search system using computer vision  
-  → Python · CNN-based similarity search · eBay API integration
+  Image similarity search system  
+  → Python · Computer Vision · eBay API
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Tech Stack
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
 **Backend:** Python · FastAPI · Node.js  
-**Databases:** PostgreSQL · Supabase  
-**Infra & Payments:** Stripe · Redis · Vercel  
-**AI:** Claude API (Anthropic) · OpenAI API  
+**Database:** PostgreSQL · Supabase  
+**AI:** Claude API · OpenAI API · AI Agents  
+**Infra & Tools:** Stripe · Redis · Vercel · Git / GitHub  
 
 ---
 
