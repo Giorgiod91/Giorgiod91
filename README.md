@@ -1,71 +1,72 @@
 # Hi, I'm Giorgio 👋
 
-## Software Engineer in Training · Building SaaS & Backend-leaning Systems
+## Full-Stack Developer · Web & SaaS Apps with AI
 
-🎓 Vocational Training — Software Developer (Fachinformatiker Anwendungsentwicklung, IHK) · Profil GmbH Hannover (2025–2027)  
-📚 B.Sc. Computer Science – University of the People (2025–2028)  
-📍 Germany · Open to software engineering opportunities
-
----
-
-I focus on building backend-leaning SaaS systems and scalable web applications with a strong emphasis on system design, APIs, and real-world engineering practices.
-
-My work is centered around designing and building production-style software — including authentication systems, multi-tenant architectures, databases, payments, and AI integrations.
+🎓 Vocational training — Software Developer (Fachinformatiker Anwendungsentwicklung, IHK) · Profil GmbH Hannover (2025–2027)  
+📚 B.Sc. Computer Science — University of the People (2025–2028)  
+📍 Germany · Open to junior developer roles
 
 ---
 
-## 🚧 Currently Building (Main Project)
+I build web applications and AI features — from idea to deployment. I've been
+building my own projects since 2022 and learn best by making real things.
+
+On the frontend I work with Next.js and TypeScript, on the backend with
+Python (FastAPI). Right now I'm deliberately going deeper into backend and
+database design.
+
+---
+
+## 🚧 Currently building
 
 ### FlowDesk
-A multi-tenant SaaS platform for managing teams, projects, and tasks.
+An app for managing teams, projects and tasks — my project for learning
+backend and database design hands-on.
 
-Focus:
-- Backend system design
-- API-first architecture
-- Authentication & role-based access
-- Scalable SaaS structure
+- Authentication & user roles
+- API + clean PostgreSQL data model
+- Next.js frontend
 
-Tech: Next.js · FastAPI · PostgreSQL · TypeScript
-
----
-
-## 🚀 Production SaaS Project
-
-### CrackTheTest.ai
-AI-powered SaaS platform for exam preparation with subscription model.
-
-Features:
-- Authentication system
-- Stripe billing (Free / Pro)
-- AI-generated learning content
-- Dashboard & user system
-- Multi-tenant architecture
-
-Tech: Next.js · FastAPI · Supabase · Stripe · Claude API
+**Tech:** Next.js · FastAPI · PostgreSQL · TypeScript
 
 ---
 
-## 🧠 Other Projects
+## 🚀 Featured project
 
-- **Study Assistant** – AI RAG system for document chat  
-- **GamerConnect** – Realtime community platform  
-- **PicturaSearch** – Image similarity search (Computer Vision)
+### CrackTheTest.ai → [live](https://crack-the-test.vercel.app)
+An AI-powered exam-prep SaaS I built end-to-end.
+
+- Auth + user dashboard
+- Stripe subscriptions (Free / Pro) incl. webhooks
+- Supabase with Row Level Security
+- AI-generated questions via the Claude API
+
+**Tech:** Next.js · FastAPI · Supabase · Stripe · Claude API
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Other projects
+
+- **Study Assistant** — RAG system to chat with your documents  
+- **GamerConnect** — realtime community platform  
+- **PicturaSearch** — image similarity search (computer vision)
+
+---
+
+## 🛠️ Tech I work with
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
 **Backend:** Python · FastAPI · Node.js  
 **Database:** PostgreSQL · Supabase  
 **AI:** Claude API · OpenAI API  
-**Infra & Tools:** Stripe · Redis · Vercel · Git / GitHub  
+**Tools:** Vercel · Docker · Git / GitHub  
 
 ---
 
-## 🎯 Focus
+## 🎯 Goal
 
-Building scalable SaaS systems, backend architectures, and AI-powered applications with production-level engineering practices.
+Join a team as a junior developer, learn from experienced engineers, and keep
+building real web and AI applications.
 
 ---
 
