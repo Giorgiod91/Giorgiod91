@@ -19,15 +19,15 @@ database design.
 
 ## 🚧 Currently building
 
-### FlowDesk
-An app for managing teams, projects and tasks — my project for learning
-backend and database design hands-on.
+### BirdVision
+An AI bird-identification app — snap a photo or video and get the species
+in seconds, with a rich profile on habitat, diet and song.
 
-- Authentication & user roles
-- API + clean PostgreSQL data model
-- Next.js frontend
+- Image & video identification across 11,000+ species
+- Species profiles + personal life list
+- Next.js 16 frontend with a clean, animated UI
 
-**Tech:** Next.js · FastAPI · PostgreSQL · TypeScript
+**Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Motion
 
 ---
 
