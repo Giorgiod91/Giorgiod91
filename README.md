@@ -23,8 +23,6 @@ database design.
 An AI bird-identification app — snap a photo or video and get the species
 in seconds, with a rich profile on habitat, diet and song.
 
-- Image & video identification across 11,000+ species
-- Species profiles + personal life list
 - Next.js 16 frontend with a clean, animated UI
 
 **Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Motion
