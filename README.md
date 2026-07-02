@@ -10,14 +10,14 @@
 
 I build web applications and AI features — from idea to deployment. I've been building my own projects since 2022 and learn best by making real things.
 
-On the frontend I work with Next.js and TypeScript, on the backend with Python (FastAPI).
+On the frontend I work with Next.js and TypeScript, on the backend with Python (FastAPI). I work a lot with AI dev tools like Claude Code — to ship faster and learn more, not to skip understanding.
 
 ---
 
 ## 🚀 What I've shipped
 
 ### CrackTheTest.ai → [live](https://crack-the-test.vercel.app)
-An AI-powered exam-prep SaaS I built end-to-end — real users, real revenue.
+An AI-powered exam-prep SaaS, built end-to-end and live in production.
 
 - Auth + user dashboard
 - Stripe subscriptions (Free / Pro) incl. webhooks
@@ -27,7 +27,7 @@ An AI-powered exam-prep SaaS I built end-to-end — real users, real revenue.
 **Tech:** Next.js · FastAPI · Supabase · Stripe · Claude API
 
 ### ClaudeShip → [live](https://claudeship.vercel.app)
-A commercial Next.js + Supabase + Stripe + Claude boilerplate — the stack I used for CrackTheTest, packaged so others can launch a paid AI SaaS in a day. Sold as a one-time purchase with automated GitHub repo delivery after checkout.
+A Next.js + Supabase + Stripe + Claude boilerplate — the stack I used for CrackTheTest, packaged so others can launch a paid AI SaaS in a day. Available as a one-time purchase with automated GitHub repo delivery after checkout.
 
 - Live Stripe payments + webhook-driven access
 - Magic-link auth, protected dashboard, Claude chat endpoint
