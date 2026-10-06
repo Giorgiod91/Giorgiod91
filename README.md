@@ -1,37 +1,40 @@
 # Hi, I'm Giorgio 👋
 
-## Full-Stack Developer · Web & SaaS Apps with AI
+## Software Engineer · Next.js · Hannover
 
 🎓 Vocational training — Software Developer (Fachinformatiker Anwendungsentwicklung, IHK) · Profil GmbH Hannover (2025–2027)
+💼 Internship — Digital Cuisine, Hannover (Sep 2026 – Mar 2027)
 📚 B.Sc. Computer Science — University of the People (2025–2028)
 📍 Germany · Open to junior developer roles
 
 ---
 
-I build web applications and AI features — from idea to deployment. I've been building my own projects since 2022 and learn best by making real things.
+I build web apps with Next.js and TypeScript — from idea to deployment. I've been building my own projects since 2022, and now I'm learning every day in a real team.
 
-On the frontend I work with Next.js and TypeScript, on the backend with Python (FastAPI). I work a lot with AI dev tools like Claude Code — to ship faster and learn more, not to skip understanding.
+---
+
+## 💼 Internship at Digital Cuisine
+
+- Migrated a legacy application to a **Next.js platform** where employees and admins view and create contracts, see when they expire and send SMS automatically
+- PDF import with Python that writes the data straight into the database (faxes via Tesseract OCR)
+- Team workflow on **Azure DevOps**: repos, pull requests & code reviews, pipelines, Docker
 
 ---
 
 ## 🚀 What I've shipped
 
-### CrackTheTest.ai → [live](https://crack-the-test.vercel.app)
-An AI-powered exam-prep SaaS, built end-to-end and live in production.
+### AP1 Ready → [live](https://crack-the-test.vercel.app)
+Exam prep for German IT apprentices (Fachinformatiker AP1).
 
-- Auth + user dashboard
-- Stripe subscriptions (Free / Pro) incl. webhooks
-- Supabase with Row Level Security
-- AI-generated questions via the Claude API
+- 140+ questions across 9 topics, with solution steps and exam tips
+- 90-minute exam simulation with grade forecast
+- AI practice tests via the Claude API
+- One-time purchase via Stripe, no subscription
 
-**Tech:** Next.js · FastAPI · Supabase · Stripe · Claude API
+**Tech:** Next.js · TypeScript · Supabase (Auth + RLS) · Stripe · Claude API
 
 ### ClaudeShip → [live](https://claudeship.vercel.app)
-A Next.js + Supabase + Stripe + Claude boilerplate — the stack I used for CrackTheTest, packaged so others can launch a paid AI SaaS in a day. Available as a one-time purchase with automated GitHub repo delivery after checkout.
-
-- Live Stripe payments + webhook-driven access
-- Magic-link auth, protected dashboard, Claude chat endpoint
-- Automated product delivery via the GitHub API
+A Next.js + Supabase + Stripe + Claude boilerplate, sold as a one-time purchase with automated GitHub repo delivery after checkout.
 
 **Tech:** Next.js · TypeScript · Supabase · Stripe · Claude API
 
@@ -40,16 +43,8 @@ A Next.js + Supabase + Stripe + Claude boilerplate — the stack I used for Crac
 ## 🛠️ Tech I work with
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS
-**Backend:** Python · FastAPI · Node.js
-**Database:** PostgreSQL · Supabase
-**AI:** Claude API · OpenAI API
-**Tools:** Vercel · Docker · Git / GitHub
-
----
-
-## 🎯 Goal
-
-Join a team as a junior developer, learn from experienced engineers, and keep building real web and AI applications.
+**Backend & Data:** Next.js Route Handlers · Node.js · PostgreSQL · Supabase · Python
+**Tools:** Azure DevOps · Docker · Git / GitHub · Vercel · Claude Code
 
 ---
 
