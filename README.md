@@ -17,7 +17,7 @@ I work with Claude Code and AI agents every day. What comes out of that I back u
 
 ## 💼 Internship at digital cuisine
 
-- **PDF reading service (Python):** reads order documents locally and replaces a paid Azure AI service. Built and measured against more than 13,000 real documents, checked by hand against the actual PDF content. The team integrated it into the new app, where it now runs in production.
+- **PDF data extraction (Python):** reads data from PDF order documents. Instead of running OCR on every file like the previous Azure AI service, it uses the text already inside the PDF and only falls back to OCR for faxes. More accurate, no ongoing Azure costs, now in production. Tested on more than 13,000 real documents.
 - **Legacy migration to Next.js:** co-developed the move of a .NET application to Next.js, TypeScript, Prisma and PostgreSQL: legacy data import, large parts of the business areas, and matching the UI to the old app.
 - **Team project on Azure DevOps:** features and fixes in a large Next.js codebase through pull requests with code review, tickets and ADRs.
 - **Moodle:** theme and employee start page in a client's corporate design, runnable locally with Docker.
