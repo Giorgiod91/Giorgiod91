@@ -24,29 +24,21 @@ I work with Claude Code and AI agents every day. What comes out of that I back u
 
 ---
 
-## 🚀 What I've shipped on my own
+## 🧭 What I'm building now: Session Atlas → [repo](https://github.com/Giorgiod91/session-atlas)
 
-### AP1 Ready → [live](https://crack-the-test.vercel.app)
-Exam prep for German IT apprentices (Fachinformatiker AP1).
+A desktop app that turns my local Claude Code sessions into a Neovim-style workspace: browse projects, sessions and every prompt, see which agents and models worked on what, and continue any session right inside the app.
 
-- 140+ questions across 9 topics, with solution steps and exam tips
-- 90-minute exam simulation with grade forecast
-- AI practice tests via the Claude API
-- One-time purchase via Stripe, no subscription
+- Neovim-style UI with real vim motions, visual mode and Telescope-like search
+- Built-in terminal (xterm.js + node-pty) that resumes Claude Code sessions directly
+- Markdown notes with a vim editor; hand a requirements note straight to a Claude agent
+- MCP server management through the Claude CLI, secrets never shown
+- Fully local: reads `~/.claude` live, nothing leaves the machine
 
-**Tech:** Next.js · TypeScript · Supabase (Auth + RLS) · Stripe · Claude API
+**Tech:** Electron · JavaScript · Node.js · xterm.js · CodeMirror 6
 
-### ClaudeShip → [live](https://claudeship.vercel.app)
-A Next.js + Supabase + Stripe + Claude boilerplate, sold as a one-time purchase with automated GitHub repo delivery after checkout.
+![Session Atlas](https://raw.githubusercontent.com/Giorgiod91/session-atlas/main/docs/screenshots/editor.png)
 
-**Tech:** Next.js · TypeScript · Supabase · Stripe · Claude API
-
-### PraktikumFinder → [live](https://praktikumsfinder.vercel.app)
-Matches developers with IHK-certified training companies.
-
-**Tech:** Next.js · TypeScript · FastAPI · PostgreSQL
-
-More projects: [giorgiodettmar.com](https://www.giorgiodettmar.com)
+**Earlier projects:** [AP1 Ready](https://crack-the-test.vercel.app) · [ClaudeShip](https://claudeship.vercel.app) · [PraktikumFinder](https://praktikumsfinder.vercel.app) · more on [giorgiodettmar.com](https://www.giorgiodettmar.com)
 
 ---
 
@@ -54,6 +46,7 @@ More projects: [giorgiodettmar.com](https://www.giorgiodettmar.com)
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS\
 **Backend & Data:** Node.js · Python · FastAPI · PostgreSQL · Prisma · Supabase\
+**Desktop:** Electron · xterm.js · CodeMirror\
 **Tools:** Azure DevOps · Docker · Git / GitHub · Vercel · Claude Code
 
 ---
